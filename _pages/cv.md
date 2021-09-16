@@ -14,8 +14,8 @@ Education
 Shanghai Jiao TongUniversity(SJTU) , Shanghai, China 2018 – Present
 Undergraduate student in Bioinformatics, School of Life Sciences and Biotechnology
 
-GPA: 3.6/4.0 (Genetics and evolution: 98, Organic chemistry: 98, Physics: 94, Biochemistry: 93, Molecular
-biology: 92)
+GPA: 3.6/4.3 (Genetics and evolution: 98/100, Organic chemistry: 98/100, Physics: 94/100, Biochemistry: 93/100, Molecular
+biology: 92/100)
 
 Research experience
 ======
