@@ -11,49 +11,45 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+Shanghai Jiao TongUniversity(SJTU) , Shanghai, China 2018 – Present
+Undergraduate student in Bioinformatics, School of Life Sciences and Biotechnology
 
-Work experience
+GPA: 3.6/4.0 (Genetics and evolution: 98, Organic chemistry: 98, Physics: 94, Biochemistry: 93, Molecular
+biology: 92)
+
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Function analysisof LHPP,A candidate geneforschizophrenia,on Phosphorylationsignaling
+pathway Shanghai, China Sept.2019 – Nov.
+  * Intern Manager: Weidong Li
+  * Construct Lhpp brain-specific knockout mice based on Cre/loxP recombinase system
+  * Verify the ideality of the animal depression model by behavioral experiments such as sugar water preference and forced swimming
+  * Study related signal pathways in disease models with phosphorylation broad-spectrum screening antibody
+chip technology 
+  * Find out the change of phosphorylation level of signal molecules in the PI3K/AKT signaling pathway ac-
+cording to results of Western Blot
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* The characteristicof PPN neuronalactivity in MPTP-inducedPD mouse model Shanghai,
+China Oct. 2020 – Sept. 2021
+  * Leader Individual project, instructed by Fujun Chen
+  * Establish a Parkinson’s disease mouse model by head injection of MPTP
+  * Collect behavioral data of PD mouse models in open field test and pole test and records of nerve activities
+of PPN under anesthesia
+  * Study the effects of electrical stimulation of PPN and ethanol extract from Gastrodia elata to relieve symp-
+toms of PD mouse models induced by MPTP
+
+* Study of neuropeptideclassification model based on artificial intelligencealgorithm Shanghai,
+China Dec.2020 – Sept. 2021
+  * Intern Manager: Yi Xiong
+  * Master different coding methods of peptide sequences based on word embedding algorithm Word2Vec in
+natural language processing
+  * Construct a novel neuropeptide prediction model according to neural network algorithm GRU in deep learning 
+  * Compare the accuracy, specificity, AUC and other evaluation indicators of our model with previous models such as PredNeuroP and NeuroPIpred and get better performance
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: C/C++, Python, R, MATLAB, Java
+* Development: Web (Django), Android
+* Languages: English - Fluent (TOEFL: 101), Japanese - Fluent (N1)
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
