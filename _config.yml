@@ -90,31 +90,31 @@ author:
   email            : "arthurprotype@sjtu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
+  bitbucket        : #
+  codepen          : #
+  dribbble         : #
+  flickr           : #
+  facebook         : #
+  foursquare       : #
   github           : "arthurprotype"
-  google_plus      :
-  keybase          :
-  instagram        :
+  google_plus      : #
+  keybase          : #
+  instagram        : #
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
+  lastfm           : #
   linkedin         : "https://www.linkedin.com/in/%E4%BA%AC%E6%88%90-%E7%9F%B3-8a407b1a7/"
-  orcid            : 
-  pinterest        :
-  soundcloud       :
+  orcid            :  #
+  pinterest        : #
+  soundcloud       : #
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  steam            : #
+  tumblr           : #
+  twitter          : #
+  vine             : #
+  weibo            : #
+  xing             : #
+  youtube          : #
+  wikipedia        : #
 
 
 # Reading Files
