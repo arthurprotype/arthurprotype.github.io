@@ -11,45 +11,38 @@ redirect_from:
 
 Education
 ======
-Shanghai Jiao TongUniversity(SJTU) , Shanghai, China 2018 – Present
-Undergraduate student in Bioinformatics, School of Life Sciences and Biotechnology
+Shanghai Jiao TongUniversity(SJTU) , Shanghai, China Sept.2018 -- Jun.2022(Expected)
+Bachlelor in Bioinformatics, School of Life Sciences and Biotechnology
 
-GPA: 3.6/4.3 (Genetics and evolution: 98/100, Organic chemistry: 98/100, Physics: 94/100, Biochemistry: 93/100, Molecular
-biology: 92/100)
+GPA: 3.61/4.30 86.37 
+Coursework: Neurobiology: 88, Mystery of Brain and Mental Health: 89, Biostatistics: 90, \\Principles of Algorithms in Bioinformatics: 91, Physics: 94, Molecular biology: 92
 
 Research experience
 ======
-* Function analysisof LHPP,A candidate geneforschizophrenia,on Phosphorylationsignaling
-pathway Shanghai, China Sept.2019 – Nov.
-  * Intern Manager: Weidong Li
-  * Construct Lhpp brain-specific knockout mice based on Cre/loxP recombinase system
-  * Verify the ideality of the animal depression model by behavioral experiments such as sugar water preference and forced swimming
-  * Study related signal pathways in disease models with phosphorylation broad-spectrum screening antibody
-chip technology 
-  * Find out the change of phosphorylation level of signal molecules in the PI3K/AKT signaling pathway ac-
-cording to results of Western Blot
+* Study of Working Memory Mechanisms Based on Recurrent Neural Network Sept.2021 -- Present
+  * Project leader, instructed by \href{https://ins.sjtu.edu.cn/people/songtingli/}{Songting Li} from Institute of Natural Sciences, SJTU
+  Expected work:
+  * Build a model to explain working memory storage mechanisms through recurrent neural network
+  * Explore possible context-dependent effects in working memory model by adding contextual information to the input and retrieval phases 
+  * Discover potential causes of recency effect and primacy effect in working memory model
+  
+* Establishment of Neuropeptide Classification Model Based on Natural Language Processing(NLP) and Deep Learning Dec.2020 – Sept.2021
+  * Research Assistant, instructed by \href{https://xbioinfo.sjtu.edu.cn/index-en.php}{Yi Xiong} from Department of Bioinformatics and Biostatistics, SJTU
+  * Constructed a novel neuropeptide prediction model combining NLP with deep learning and achieved classification accuracy of 86.70\%, 4-9\% higher than traditional models
+  * Compared prediction effects of different combination of recurrent neural networks(SingleRNN, GRU, LSTM) and word2vec(CBOW, Skip-gram) algorithms 
+  
+* The Characteristic of Pedunculopontine nucleus(PPN) Neuronal Activity in MPTP-Induced (Parkinson's Disease)PD Mouse Model Oct.2020 – Sept.2021
+  * Project leader, instructed by \href{https://life.sjtu.edu.cn/teacher/FujunChen}{Fujun Chen} from Bio-X Institutes, SJTU
+  * Obtained clear spikes of PPN in MPTP-induced PD mice and sham-operated mice using the technique of In vivo Single-unit Recording
+  * Analysed characteristics of firing frequency and half-wave width of 70 neurons, 2 different types in the obtained electrical signal recordings through Spike Sorting
 
-* The characteristicof PPN neuronalactivity in MPTP-inducedPD mouse model Shanghai,
-China Oct. 2020 – Sept. 2021
-  * Leader Individual project, instructed by Fujun Chen
-  * Establish a Parkinson’s disease mouse model by head injection of MPTP
-  * Collect behavioral data of PD mouse models in open field test and pole test and records of nerve activities
-of PPN under anesthesia
-  * Study the effects of electrical stimulation of PPN and ethanol extract from Gastrodia elata to relieve symp-
-toms of PD mouse models induced by MPTP
-
-* Study of neuropeptideclassification model based on artificial intelligencealgorithm Shanghai,
-China Dec.2020 – Sept. 2021
-  * Intern Manager: Yi Xiong
-  * Master different coding methods of peptide sequences based on word embedding algorithm Word2Vec in
-natural language processing
-  * Construct a novel neuropeptide prediction model according to neural network algorithm GRU in deep learning 
-  * Compare the accuracy, specificity, AUC and other evaluation indicators of our model with previous models such as PredNeuroP and NeuroPIpred and get better performance
-
+* Function Analysis of LHPP, a Candidate Gene for Schizophrenia, on Phosphorylation Signaling Pathway Sept.2019 – Nov.2020
+  * Research Assistant, instructed by \href{https://lwdlab.sjtu.edu.cn/zuzhang/10.html}{Weidong Li} from Bio-X Institutes, SJTU
+  * Verified the ideality of an animal depression model by behavioral experiments of Sucrose Preference Test(SPT) and Forced Swimming Test(FST)
+  * Discovered the change of phosphorylation level of signal molecules in the PI3K/AKT signaling pathway according to results of Western Blot
   
 Skills
 ======
-* Programming Languages: C/C++, Python, R, MATLAB, Java
-* Development: Web (Django), Android
-* Languages: English - Fluent (TOEFL: 101), Japanese - Fluent (N1)
+* Programming: C/C++, Python(Pytorch, Tensorflow), R, MATLAB, Java
+* Languages: Mandarin - Proficient, English - Proficient (TOEFL: 101), Japanese - Proficient(The Japanese-Language Proficiency Test: N1), Korean - Conversational
 
