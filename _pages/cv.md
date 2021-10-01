@@ -21,7 +21,7 @@ Research experience
 ======
 * __Study of Working Memory Mechanisms Based on Recurrent Neural Network__ <p align="right">Sept.2021 -- Present</p>
   * __Project leader__, instructed by [Songting Li](https://ins.sjtu.edu.cn/people/songtingli/) from Institute of Natural Sciences, SJTU  
-  __Expected work:__
+  _Expected work:_
   * Build a model to explain working memory storage mechanisms through recurrent neural network
   * Explore possible context-dependent effects in working memory model by adding contextual information to the input and retrieval phases 
   * Discover potential causes of recency effect and primacy effect in working memory model
