@@ -15,7 +15,7 @@ Shanghai Jiao TongUniversity(SJTU) , Shanghai, China Sept.2018 -- Jun.2022(Expec
 Bachlelor in Bioinformatics, School of Life Sciences and Biotechnology
 
 GPA: 3.61/4.30 86.37   
-Coursework: Neurobiology: 88, Mystery of Brain and Mental Health: 89, Biostatistics: 90, \\Principles of Algorithms in Bioinformatics: 91, Physics: 94, Molecular biology: 92
+Coursework: Neurobiology: 88(A-), Mystery of Brain and Mental Health: 89(A-), Biostatistics: 90(A), Principles of Algorithms in Bioinformatics: 91(A), Physics: 94(A), Molecular biology: 92(A)
 
 Research experience
 ======
@@ -37,7 +37,7 @@ Research experience
   * Analysed characteristics of firing frequency and half-wave width of 70 neurons, 2 different types in the obtained electrical signal recordings through Spike Sorting
 
 * Function Analysis of LHPP, a Candidate Gene for Schizophrenia, on Phosphorylation Signaling Pathway Sept.2019 – Nov.2020
-  * Research Assistant, instructed by [Weidong Li](https://lwdlab.sjtu.edu.cn/zuzhang/10.html) from Bio-X Institutes, SJTU
+  * Research Assistant, instructed by [Weidong Li](https://lwdlab.sjtu.edu.cn/) from Bio-X Institutes, SJTU
   * Verified the ideality of an animal depression model by behavioral experiments of Sucrose Preference Test(SPT) and Forced Swimming Test(FST)
   * Discovered the change of phosphorylation level of signal molecules in the PI3K/AKT signaling pathway according to results of Western Blot
   
