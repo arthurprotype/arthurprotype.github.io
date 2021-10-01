@@ -32,7 +32,7 @@ Research experience
   * Compared prediction effects of different combination of recurrent neural networks(SingleRNN, GRU, LSTM) and word2vec(CBOW, Skip-gram) algorithms 
   
 * The Characteristic of Pedunculopontine nucleus(PPN) Neuronal Activity in MPTP-Induced (Parkinson's Disease)PD Mouse Model Oct.2020 – Sept.2021
-  * Project leader, instructed by [Fujun Chen](https://life.sjtu.edu.cn/teacher/FujunChen) from Bio-X Institutes, SJTU
+  * Project leader, instructed by [Fujun Chen](https://life.sjtu.edu.cn/teacher/En/FujunChen) from Bio-X Institutes, SJTU
   * Obtained clear spikes of PPN in MPTP-induced PD mice and sham-operated mice using the technique of In vivo Single-unit Recording
   * Analysed characteristics of firing frequency and half-wave width of 70 neurons, 2 different types in the obtained electrical signal recordings through Spike Sorting
 
