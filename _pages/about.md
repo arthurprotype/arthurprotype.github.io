@@ -14,7 +14,7 @@ I have been involved in a wide range of research related to neuroscience. I have
 
 I am also interested in the integration of artificial intelligence and neuroscience, and have been involved in building a classification model of neuropeptide segments based on word2vec and recurrent neural network. 
 
-Currently I am working with \href{https://ins.sjtu.edu.cn/people/songtingli/}{Songting Li} at Institute of Natural Sciences, SJTU on research with a focus on modeling of working memory through recurrent neural network. The intention of our work is to explore possible context-dependent effects in working memory and also discover potential causes of serial position effect(recency effect, primacy effect).
+Currently I am working with [Songting Li](https://ins.sjtu.edu.cn/people/songtingli/) at Institute of Natural Sciences, SJTU on research with a focus on modeling of working memory through recurrent neural network. The intention of our work is to explore possible context-dependent effects in working memory and also discover potential causes of serial position effect(recency effect, primacy effect).
 
 
 
