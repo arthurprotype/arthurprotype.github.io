@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-__Shanghai Jiao Tong University(SJTU)__,  Shanghai,  China <h1 style="text-align:right">Sept.2018 -- Jun.2022(Expected)</h1>
+__Shanghai Jiao Tong University(SJTU)__,  Shanghai,  China <div style="text-align: right">Sept.2018 -- Jun.2022(Expected)</div>
 __Bachlelor__ in Bioinformatics, School of Life Sciences and Biotechnology
 
 GPA:  3.61/4.30  86.37   
