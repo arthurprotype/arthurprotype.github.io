@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -8,10 +8,10 @@ redirect_from:
 ---
 
 {% include base_path %}
- -->
+
 Education
 ======
-__Shanghai Jiao Tong University(SJTU)__,  Shanghai,  China <p align="right">Sept.2018 -- Jun.2022(Expected)</p>
+__Shanghai Jiao Tong University(SJTU)__,  Shanghai,  China <h1 style="text-align:right">Sept.2018 -- Jun.2022(Expected)</h1>
 __Bachlelor__ in Bioinformatics, School of Life Sciences and Biotechnology
 
 GPA:  3.61/4.30  86.37   
