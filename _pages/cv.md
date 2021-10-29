@@ -14,7 +14,7 @@ Education
 __Shanghai Jiao Tong University(SJTU)__,  China       Sept. 2018 -- Jun. 2022(Expected)  
 __Bachlelor__ in Bioinformatics, School of Life Sciences and Biotechnology
 
-GPA:  3.62/4.00 (WES) &emsp 86.37   
+GPA:  3.62/4.00 (WES) 86.37   
 Coursework:  Principles of Algorithms in Bioinformatics (91), Neurobiology (88), Biostatistics (90),
 Mystery of Brain and Mental Health (89), Physics (94), Molecular biology (92)
 
